@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ud809_Habit Tracker</string>
+    <string name="add_dummy_log">Insert dummy habit</string>
+    <string name="log_activity_name">Logged Habits</string>
+</resources>
